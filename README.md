@@ -1,6 +1,8 @@
 # PRODIGY_DS_04
 
-# Project Summary: Analyzing and Visualizing Sentiment Patterns in Social Media Data
+# Project Summary: 
+
+Analyzing and Visualizing Sentiment Patterns in Social Media Data
 
 # Project Objective:
 The goal of this project is to analyze and visualize sentiment patterns in social media data to gain a deeper understanding of public opinion and attitudes towards specific topics or brands. The project involves data cleaning, exploratory data analysis (EDA), sentiment analysis, and visualization of the results.
